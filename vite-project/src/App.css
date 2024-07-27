@@ -1,0 +1,10 @@
+.app-div{
+    background-image: url('./images/1_99VvgE1zh2bvl8_6V0G00A.png'); 
+    background-size: cover;   
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+}
